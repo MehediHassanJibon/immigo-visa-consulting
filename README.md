@@ -1,10 +1,19 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Live link is here [Immigo Visa Consulting](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Website feathers
 
-In the project directory, you can run:
+- responsive homepage
+- login system
+- register system 
+- about page 
+
+## Framework and Library
+- react-route
+- react-bootstrap
+- react-firebase-hooks
+- firebase 
 
 ### `npm start`
 
